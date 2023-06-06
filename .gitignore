@@ -1,0 +1,10 @@
+.DS_Store
+.cache
+.vscode
+.eslintcache
+.node_modules
+.metadata
+.git
+.settings
+.classpath
+.project
