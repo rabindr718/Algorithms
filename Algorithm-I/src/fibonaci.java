@@ -3,9 +3,9 @@ public class fibonaci {
 
 	public static void main(String[] args) {
 
-		int num1=0, num2=1, num3,i, count=15;
+		int num1=0, num2=1, num3, count=15;
 		System.out.print(num1 +" "+num2);
-		for(i=2; i<count; ++i) {
+		for(int i=2; i<count; i++) {
 			num3=num1+num2;
 			System.out.print(" " + num3);
 			num1=num2;
@@ -14,5 +14,4 @@ public class fibonaci {
 			
 		}
 	}
-
 }

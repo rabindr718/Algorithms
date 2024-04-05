@@ -1,9 +1,12 @@
 package LinkedList;
+import java.util.Scanner;
 
 public class LLQuestion1 {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner c=new Scanner(System.in);
+		
+		
+		
 
 	}
 

@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Fibonacii {
 
 	public static void main(String[] args) {
@@ -8,9 +7,7 @@ public class Fibonacii {
 		Scanner input=new Scanner(System.in);
 		System.out.println("Enter Number Till You Want");
 		int TillNumber=input.nextInt();
-		System.out.print(first+" "+ second);
-		
-		
+		System.out.print(first+" "+ second);	
 			for(i=0; i<TillNumber; i++) {
 				third=first+second;
 				first=second;
@@ -19,11 +16,7 @@ public class Fibonacii {
 				second=third;
 				System.out.print(second +" Second ");
 
-				System.out.println("  "+third);
-				
-			
-			
-			
+				System.out.println("  "+third);		
 		}
 	}
 

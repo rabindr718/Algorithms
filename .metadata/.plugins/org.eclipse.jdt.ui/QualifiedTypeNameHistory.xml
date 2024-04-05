@@ -30,12 +30,12 @@
     <fullyQualifiedTypeName name="org.springframework.boot.origin.SystemEnvironmentOrigin"/>
     <fullyQualifiedTypeName name="basic.Encapsulation"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.ClassCastException"/>
     <fullyQualifiedTypeName name="javax.print.DocFlavor.INPUT_STREAM"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="LinkedList.LL"/>
     <fullyQualifiedTypeName name="LinkedList.LL.Node"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
