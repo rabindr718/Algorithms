@@ -14,7 +14,7 @@ public class SQLLiteConnection {
 	        } catch (SQLException e) {
 	            System.out.println("Connection failed: " + e.getMessage());
 	        } finally {
-	            if (conn != null) {
+	            if (conn != null)  {
 	                try {
 	                    // Close the connection
 	                    conn.close();
