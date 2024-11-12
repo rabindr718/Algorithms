@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="/Users/rabindrakumarsharma/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.6.v20230204-1729" stamp="1677610991849"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home" stamp="1702990352000"/>
+    <entry loc="/Users/rabindrakumarsharma/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.6.v20230204-1729" stamp="1688402229643"/>
+    <entry loc="/Users/rabindrakumarsharma/Library/Java/JavaVirtualMachines/corretto-21.0.2/Contents/Home" stamp="1712430911241"/>
     <entry loc="/Library/Java/JavaVirtualMachines/jdk-17.0.1.jdk/Contents/Home" stamp="1647459461770"/>
     <entry loc="/Library/Java/JavaVirtualMachines/jdk1.8.0_351.jdk/Contents/Home" stamp="1663211215000"/>
     <entry loc="/Users/rabindrakumarsharma/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.6.v20230204-1729/jre" stamp="1688402229651"/>
-    <entry loc="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" stamp="1663210699000"/>
+    <entry loc="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" stamp="1702989857000"/>
+    <entry loc="/Users/rabindrakumarsharma/Library/Java/JavaVirtualMachines/corretto-11.0.19/Contents/Home" stamp="1707596481547"/>
 </dirs>
